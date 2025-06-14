@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "lapzen111"
+  },
+  "targets": {
+    "your-firebase-project-id":"lapzen111" 
+     {
+      "hosting": {
+        "your-site-id": ["lapzen-tech"]
+      }
+    }
+  }
+}
